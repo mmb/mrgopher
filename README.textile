@@ -1,2 +1,5 @@
 sudo ./mrgopher.py
 firefox gopher://localhost/
+
+If you are using Firefox >= 4 they took out gopher support so use
+https://addons.mozilla.org/en-US/firefox/addon/overbiteff/
