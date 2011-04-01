@@ -1,4 +1,4 @@
-sudo ./mrgopher.py
+sudo ./mrgopher.rb
 firefox gopher://localhost/
 
 If you are using Firefox >= 4 they took out gopher support so use
